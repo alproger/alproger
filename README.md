@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yakhyokhon Kadirov
 - 👀 I’m interested in backend development with python and gamedevelopment
-- 🌱 I’m currently learning python3, Django3, HTML, CSS, JAVASCRIPT, SQL, Telegram Bot API, LINUX , GIT, GITHUB
+- 🌱 I’m currently learning algorithm and data structures, python3, Django3, HTML, CSS, JAVASCRIPT, SQL, Telegram Bot API, LINUX , GIT, GITHUB
 - 📫 How to reach me developerkadirov@gmail.com
 
 <!---
