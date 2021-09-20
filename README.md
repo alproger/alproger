@@ -7,6 +7,6 @@
 alproger/alproger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 [![alProger's GitHub stats](https://github-readme-stats.vercel.app/api?username=alproger)](https://github.com/anuraghazra/github-readme-stats)
+![alProger's GitHub stats](https://github-readme-stats.vercel.app/api?username=alproger&show_icons=true&theme=radical)
+
