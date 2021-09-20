@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Yakhyokhon Kadirov**
 - 👀 I’m interested in backend development with python and gamedevelopment
-- 🌱 I’m currently learning **algorithm and data structures, python3, Django3 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white, HTML, CSS, JAVASCRIPT, SQL, Telegram Bot API, LINUX , GIT, GITHUB**
+- 🌱 I’m currently learning **algorithm and data structures, python3 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" /> , Django3, HTML, CSS, JAVASCRIPT, SQL, Telegram Bot API, LINUX , GIT, GITHUB**
 - 📫 How to reach me **[mail](developerkadirov@gmail.com)**
 
 <!---
