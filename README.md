@@ -4,9 +4,8 @@
 - 📫 How to reach me **[mail](developerkadirov@gmail.com)**
 
 
-<!---
 <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" />
---->
+
 ![alProger's GitHub stats](https://github-readme-stats.vercel.app/api?username=alproger&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alproger&layout=compact)](https://github.com/alproger/github-readme-stats)
