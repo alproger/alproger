@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **algorithm and data structures, python3, Django3, HTML, CSS, JAVASCRIPT, SQL, Telegram Bot API, LINUX , GIT, GITHUB**
 - 📫 How to reach me **[mail](developerkadirov@gmail.com)**
 
+[image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen})
 
-<img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen}" /> 
 <!---
 alproger/alproger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
