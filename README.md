@@ -1,83 +1,89 @@
-<h1 align="center">Hi, I'm Yakhyokhon Kadirov 👋</h1>
-<h3 align="center">Python Backend Developer | Programming Instructor | IT Enthusiast</h3>
-
-<p align="center">
-  I am passionate about backend development with Python, web technologies, and game development.
-  I enjoy building practical projects, teaching programming, and continuously improving my technical skills.
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I am interested in **Backend Development with Python**
-- 🌐 I also work with **HTML, CSS, JavaScript**
-- 🎮 I am interested in **Game Development**
-- 🌱 I am currently learning **Django, Backend Architecture, SQL, and Linux**
-- 👨‍🏫 I organize **free programming lessons** for students
-- 🚀 I enjoy working on **real-world practical projects**
+> I am passionate about backend development with Python, building real-world practical projects, and helping students grow through free programming lessons.
+
+- 🔭 Focused on **Backend Development with Python**
+- 🌱 Currently learning **Django · Backend Architecture · SQL · Linux**
+- 🎮 Interested in **Game Development**
+- 👨‍🏫 Organizing **free programming lessons** for students
+- 🚀 Love shipping **practical, real-world projects**
+- 📫 Reach me at **developerkadirov@gmail.com**
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Backend**
 
----
+![Python](https://img.shields.io/badge/Python-0b0c0f?style=for-the-badge&logo=python&logoColor=C9A84C)
+![Django](https://img.shields.io/badge/Django-0b0c0f?style=for-the-badge&logo=django&logoColor=C9A84C)
+![MySQL](https://img.shields.io/badge/MySQL-0b0c0f?style=for-the-badge&logo=mysql&logoColor=C9A84C)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-0b0c0f?style=for-the-badge&logo=telegram&logoColor=C9A84C)
 
-## 📚 Current Focus
+**Frontend**
 
-- Python backend development
-- Django projects
-- Database design with MySQL
-- Web development fundamentals
-- Building practical and educational programming projects
+![HTML5](https://img.shields.io/badge/HTML5-0b0c0f?style=for-the-badge&logo=html5&logoColor=C9A84C)
+![CSS3](https://img.shields.io/badge/CSS3-0b0c0f?style=for-the-badge&logo=css3&logoColor=C9A84C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0c0f?style=for-the-badge&logo=javascript&logoColor=C9A84C)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-0b0c0f?style=for-the-badge&logo=git&logoColor=C9A84C)
+![GitHub](https://img.shields.io/badge/GitHub-0b0c0f?style=for-the-badge&logo=github&logoColor=C9A84C)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0b0c0f?style=for-the-badge&logo=ubuntu&logoColor=C9A84C)
 
 ---
 
-## 🌍 Community & Teaching
+## 📚 Currently Learning
 
-I actively support learners by organizing and sharing **free programming lessons** in areas such as:
-
-- HTML
-- CSS
-- JavaScript
-- Python
-
-I am passionate about helping students build strong programming foundations and practical skills.
+| Area | Topics |
+|------|--------|
+| 🐍 Backend | Django REST Framework · ORM · Celery |
+| 🗄️ Database | MySQL Design · Query Optimization |
+| 🖥️ System | Linux Administration · Deployment |
+| 🌐 Web | Full-stack fundamentals |
 
 ---
 
-## 📫 Contact Me
+## 🌍 Teaching & Community
 
-- 📧 Email: **developerkadirov@gmail.com**
-- 💬 Telegram: **@kodirovdev**
+I organize **free programming lessons** for students — helping them build real foundations in:
+
+`HTML` &nbsp; `CSS` &nbsp; `JavaScript` &nbsp; `Python`
+
+> *"The best way to learn is to teach."*
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alproger&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alproger&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YakhyokhonKadirov&show_icons=true&theme=tokyonight&hide_border=true&title_color=C9A84C&icon_color=C9A84C&text_color=f0ede6&bg_color=0b0c0f)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakhyokhonKadirov&layout=compact&theme=tokyonight&hide_border=true&title_color=C9A84C&text_color=f0ede6&bg_color=0b0c0f)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“Keep learning, keep building, and keep growing.”</i>
-</p>
+## 📫 Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-developerkadirov%40gmail.com-C9A84C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0c0f)](mailto:developerkadirov@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@kodirovdev-C9A84C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0c0f)](https://t.me/kodirovdev)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=100&section=footer" width="100%"/>
+
+</div>
