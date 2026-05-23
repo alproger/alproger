@@ -2,7 +2,7 @@
 
 # Hi, I'm Yakhyokhon Kodirov
 
-### Backend-focused Python Developer
+### Backend Python Developer
 
 I build practical backend projects, APIs, Telegram bots, and education-focused tools using Python.
 
