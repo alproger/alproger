@@ -2,18 +2,18 @@
 
 # Hi, I'm Yakhyokhon Kodirov
 
-### Backend Python Developer
+### Python Developer
 
-I build practical backend projects, APIs, Telegram bots, and education-focused tools using Python.
+I build practical backend projects, APIs, Telegram bots, automation tools, and education-focused software using Python.
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Python backend developer and IELTS tutor from Uzbekistan.  
-My main focus is building useful, simple, and real-world software projects.
+I am a backend-focused Python developer and IELTS tutor from Uzbekistan.  
+My main focus is building useful, simple, and real-world software projects that solve practical problems.
 
 I am interested in:
 
@@ -23,61 +23,62 @@ I am interested in:
 - AI-powered education tools
 - Databases and deployment basics
 - Teaching programming to students
+- Game development as a hobby
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-**Languages**
+### Languages
 
-Python, SQL, JavaScript basics, HTML/CSS basics
+Python, SQL, JavaScript basics, HTML/CSS basics, C# basics
 
-**Backend**
+### Backend Development
 
-FastAPI, Flask, REST APIs, JSON APIs, API routing, request/response handling
+FastAPI, Flask, REST API development, JSON APIs, API routing, request/response handling
 
-**Databases**
+### Databases
 
 SQLite, PostgreSQL basics, SQLAlchemy, CRUD operations, database schema basics
 
-**APIs & Integrations**
+### APIs & Integrations
 
 OpenAI API, Telegram Bot API, Google Translate API, third-party API integration
 
-**Frontend Basics**
+### Frontend Basics
 
 HTML, CSS, JavaScript basics, simple responsive pages, form handling
 
-**Additional Backend Tools**
+### Additional Backend Tools
 
-Node.js entry-level, Express.js basics, Socket.IO basics
+Node.js entry-level, Express.js basics, Socket.IO basics, simple real-time messaging
 
-**Testing**
+### Testing & Documentation
 
-Pytest basics, API endpoint testing, basic unit testing
+Pytest basics, API endpoint testing, basic unit testing, Swagger/OpenAPI, README documentation
 
-**Deployment & Tools**
+### Deployment & Tools
 
-Git, GitHub, Docker basics, Docker Compose basics, Ubuntu server basics, Nginx basics, Gunicorn/Uvicorn, environment variables, Postman, Swagger/OpenAPI
+Git, GitHub, Docker basics, Docker Compose basics, Ubuntu server basics, Nginx basics, Gunicorn/Uvicorn, environment variables, Postman
 
-**Additional Interests**
+### Additional Interests
 
 Unity basics, C# basics, hobby game development
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### IELTS Writing Checker API
 
 An open-source IELTS Writing Task 2 checker built with FastAPI and OpenAI API.
 
 - Checks IELTS Task 2 essays
-- Gives estimated band score
-- Provides grammar, vocabulary, and improvement feedback
+- Gives estimated band score and detailed feedback
+- Provides grammar, vocabulary, and improvement suggestions
 - Includes a simple local web interface
 
-**Tech:** Python, FastAPI, OpenAI API, HTML, CSS, JavaScript
+**Tech:** Python, FastAPI, OpenAI API, HTML, CSS, JavaScript, Docker
 
 ---
 
@@ -88,7 +89,7 @@ A backend API platform for serving public dataset records.
 - Search, filter, sort, and pagination
 - Dataset statistics
 - API key protection for write operations
-- Swagger documentation and tests
+- Swagger documentation and basic tests
 
 **Tech:** Python, FastAPI, SQLAlchemy, SQLite, Docker, Pytest
 
@@ -121,7 +122,20 @@ A simple Telegram bot that translates user messages into different languages.
 
 ---
 
-## Currently Learning
+### QR Code Toolkit
+
+A simple Python toolkit and CLI application for generating QR codes.
+
+- QR code generation
+- Command-line usage
+- Clean project structure
+- Basic tests and documentation
+
+**Tech:** Python, CLI, Pytest
+
+---
+
+## 📚 Currently Learning
 
 - PostgreSQL
 - Docker
@@ -129,21 +143,38 @@ A simple Telegram bot that translates user messages into different languages.
 - Nginx
 - Backend architecture
 - API testing
+- Node.js basics
+- Socket.IO basics
 
 ---
 
-## Teaching
+## 🌍 Teaching
 
-I organize free programming lessons for students and help them learn:
+I organize free programming lessons for students and help them learn the foundations of:
 
 `HTML` · `CSS` · `JavaScript` · `Python`
 
+I believe practical projects are one of the best ways to learn programming.
+
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-Email: **developerkadirov@gmail.com**  
-Telegram: **@kodirovdev**
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YakhyokhonKadirov&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YakhyokhonKadirov&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Contact
+
+- Email: **developerkadirov@gmail.com**
+- Telegram: **@kodirovdev**
+- GitHub: **github.com/YakhyokhonKadirov**
 
 ---
 
